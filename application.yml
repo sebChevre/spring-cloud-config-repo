@@ -1,4 +1,4 @@
-central:
+common:
   test:
     label: "ok central label change 1"
 
