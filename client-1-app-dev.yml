@@ -1,0 +1,6 @@
+app:
+  label:
+    test: "test client 1 - remote - dev profile"
+
+server:
+  port: 9090

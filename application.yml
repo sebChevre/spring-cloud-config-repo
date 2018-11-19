@@ -1,0 +1,8 @@
+central:
+  test:
+    label: "ok central label change 1"
+
+app:
+  label:
+    test: "test client 1 - remote - central"
+    test2: "test2 client 1 - remote - central"

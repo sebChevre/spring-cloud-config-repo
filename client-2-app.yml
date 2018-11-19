@@ -1,0 +1,6 @@
+app:
+  label:
+    test: "test client 2 - remote"
+
+server:
+  port: 9092
